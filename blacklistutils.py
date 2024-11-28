@@ -1,7 +1,6 @@
 # Blacklist Utilities Module
 import os, re
 
-Dir = 'hosts.txt' #temporary directory for testing
 #Dir = os.getenv('windir') + '\\System32\\drivers\\etc\\hosts'
 
 def checkExists(DomainString):

@@ -2,7 +2,7 @@
 
 ### Usage:
 ```
-runas /user:Administrator "python ./blacklist.py youtube.com"
+runas /user:Administrator "python PATH/TO/blacklist.py example.com"
 ```
 
 ### Arguments
