@@ -1,7 +1,7 @@
 # Blacklist Utilities Module
 import os, re
 
-#Dir = os.getenv('windir') + '\\System32\\drivers\\etc\\hosts'
+Dir = os.getenv('windir') + '\\System32\\drivers\\etc\\hosts'
 
 def checkExists(DomainString):
     # Look for String in Hosts File
